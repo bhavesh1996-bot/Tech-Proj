@@ -1,0 +1,18 @@
+Deep Learning was introduced in Machine
+Learning to meet its most important goal i.e Artificial
+Intelligence. It achieved great success with the help of Deep
+Neural networks and was able to make the systems more
+smarter. The systems dealing with data types such as images,
+graphs, text were improved and their task of predicting these
+data types for unseen data achieved high accuracy. Many of
+these predictions tasks faced issues due to adversary attacks
+which totally flips the prediction and effects the accuracy of
+the system. Adversarial learning is a new research area which
+helps in avoiding these by using various defense mechanisms
+In this section you should give some background to your
+research area. One of the robust technique that is used to
+avoid these adversary attacks is graph analytics. The reason
+is that graphs are more robust against attacks and their
+long term correlation makes it more suitable for developing
+defense mechanisms. In this paper, a survey is presented
+which discusses about Adversarial
